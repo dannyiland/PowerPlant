@@ -12,9 +12,11 @@ Here's a Fritzing image of the circuit breadboarded out. The ? PCB is an INA219 
 ![The circuit](http://i.imgur.com/zYkL1aL.png)
 
 
-This is a 10W solar panel with a small Sealed Lead Acid Battery.
+This is a [10W solar panel]("http://www.amazon.com/gp/product/B007YT5XCA/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007YT5XCA&linkCode=as2&tag=12vdcs-20) with a small [12V 7Ah Sealed Lead Acid Battery](http://www.amazon.com/gp/product/B003GXP10W/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003GXP10W&linkCode=as2&tag=12vdcs-20). The only other electrical components are a [insanely cheap 99 cent shipped eBay charge controller](http://www.ebay.com/itm/10A-Solar-Charge-Controller-Regulator-12V-24V-Autoswitch-100W-Solar-Panel-10A-/111262571836?pt=LH_DefaultDomain_0&hash=item19e7c41d3c) and some male/female [barrel plugs](http://www.amazon.com/gp/product/B002QWNZHU/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B002QWNZHU&linkCode=as2&tag=12vdcs-20).
 
-The Arduino is powered from the solar panel's battery, through a 12V->5V regulator which provides 2 USB ports from a lead acid battery.
+Note: The above links to Amazon products are affiliate links. Any income earned will fund future open source automated gardening projects!
+
+The Arduino is powered from the solar panel's battery, through an [automotive phone charger ](http://www.amazon.com/gp/product/B0088U4YAG/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0088U4YAG&linkCode=as2&tag=12vdcs-20). It takes 12-24V and has a pair of 2.1A 5V USB ports.
 
 
 Components
