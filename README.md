@@ -11,3 +11,20 @@ Here's a Fritzing image of the circuit breadboarded out. The ? PCB is an INA219 
 
 ![The circuit](http://i.imgur.com/zYkL1aL.png)
 
+
+This is a 10W solar panel with a small Sealed Lead Acid Battery.
+
+The Arduino is powered from the solar panel's battery, through a 12V->5V regulator which provides 2 USB ports from a lead acid battery.
+
+
+Components
+=================
+
+* Rectifier Diode 1N4001
+* 12V aquarium Pump (Motor on diagram)
+* Arduino
+* Male + Female Power plugs for pump. Pass-through ports for power. I found a pump that takes's my SLA's unregulated 12V DC.
+* TIP120	NPN-Power transistor to switch the pump on and off
+* 4k Ω Resistor
+* $2 RTC Module DS1302 from eBay
+* INA219 for current monitoring.
