@@ -1,9 +1,9 @@
 PowerPlant
 ==========
 
-This project is how I'm automatically watering my patio plants with a solar powered Arduino and aquarium pump.
+This project documents how I'm automatically watering my patio plants with a solar powered Arduino and aquarium pump.
 
-I wrote this code the day beforeI left for an extended vacation. My wonderful neighbor refilled the 8L container every few days and watered the parts the soaker tube did not water well. 
+I wrote this code before I left for an extended vacation. My wonderful neighbor refilled the 8L container every few days and watered the parts the soaker tube did not water well. Water is pumped vertically from the reservoir in 1/4" tubing, then pushed through three rows of soaker tubing on the three rows of herbs. The water feeds down off the pallet and runs the length of my balcony, covering all my plants.
 
 ![This photo was taken the day we got back!](http://i.imgur.com/HziK3qG.png)
 
